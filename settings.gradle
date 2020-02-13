@@ -1,0 +1,2 @@
+include ':app', ':multicustomspinner', ':multispinnerlibrary'
+rootProject.name='SpinnerActivity'
